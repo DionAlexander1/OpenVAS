@@ -1,5 +1,7 @@
 ## Lab Outline: Azure Vulnerability Management
 
+![image](https://github.com/InfoSecDion/OpenVAS/assets/105241007/a459049e-041f-4d58-b755-639fb17374da)
+
 ### Prerequisites
 - Computer with the Internet
 - Free Azure Account - Possible to do with Free Subscription
